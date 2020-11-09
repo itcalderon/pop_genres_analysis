@@ -133,3 +133,7 @@ dmypy.json
 
 # No DS_Store files
 *.DS_Store
+
+# No pickle files
+*.p
+
