@@ -44,6 +44,10 @@ The following are steps that can be taken to improve this project:
 * **Try a different clustering algorith**, particularly K-prototypes which is supposed to handle mixed data well.
 * **Use a more complex dataset.** I believe the dataset I used was inadequate for the task. It was too general for the level of granularity I wished to achieve. Besides Track Features, Spotify also has Audio Analysis data for each track. Perhaps this data is complex enough for the task at hand. It would also be interesting to use actual audio files to cluster tracks during the learning process. 
 
+# Presentation Deck
+
+[Presentation Deck](https://drive.google.com/file/d/1lwEP5wafLgKyCIqlS8cljqtuEcM0AwdH/view)
+
 # Cluster Playlists
 Below are four playlists that contain 50 songs from each cluster. 
 
