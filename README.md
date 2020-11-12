@@ -39,7 +39,20 @@ Unfortanetly, I was unable to get more granular results than the four clusters d
 
 However, what I was able to create were very interesting track mixes. While the genres varied greatly within each cluster, the overall mood and vibe of each cluster was fairly consistent. This can be used as a recommendation system. It can look at a users saved tracks and created mixes for them. The playlists formed this way will generally have songs of different genres but with a similar feeling and mood to them.
 
-# Next Steps:
-The following are steps I can take to improve this project
+# Next Steps
+The following are steps that can be taken to improve this project:
 * **Try a different clustering algorith**, particularly K-prototypes which is supposed to handle mixed data well.
 * **Use a more complex dataset.** I believe the dataset I used was inadequate for the task. It was too general for the level of granularity I wished to achieve. Besides Track Features, Spotify also has Audio Analysis data for each track. Perhaps this data is complex enough for the task at hand. It would also be interesting to use actual audio files to cluster tracks during the learning process. 
+
+# Cluster Playlists
+Below are four playlists that contain 50 songs from each cluster. 
+
+[Cluster 0](https://open.spotify.com/playlist/629Jrefu0rNKh4mOhnYWWN?si=YShn70sSS3KOR4_TqrU56g)
+
+[Cluster 1](https://open.spotify.com/playlist/6JENzX44x8FHQV43g5WpEy?si=a5WeCUN6R2qrZ8YLim3w8Q)
+
+[Cluster 2](https://open.spotify.com/playlist/3dj735Sxd8EHFF3nFwwGgR?si=bGKEavedQnW0f2-Zxrra2g)
+
+[Cluster 3](https://open.spotify.com/playlist/6ELhFjfvOzsAHVviqEbGBd?si=NNgLGUM6RnKzAUbxayehMA)
+
+
