@@ -51,12 +51,24 @@ The following are steps that can be taken to improve this project:
 # Cluster Playlists
 Below are four playlists that contain 50 songs from each cluster. 
 
-[Cluster 0](https://open.spotify.com/playlist/629Jrefu0rNKh4mOhnYWWN?si=YShn70sSS3KOR4_TqrU56g)
-
-[Cluster 1](https://open.spotify.com/playlist/6JENzX44x8FHQV43g5WpEy?si=a5WeCUN6R2qrZ8YLim3w8Q)
-
-[Cluster 2](https://open.spotify.com/playlist/3dj735Sxd8EHFF3nFwwGgR?si=bGKEavedQnW0f2-Zxrra2g)
-
+[Cluster 0](https://open.spotify.com/playlist/629Jrefu0rNKh4mOhnYWWN?si=YShn70sSS3KOR4_TqrU56g), 
+[Cluster 1](https://open.spotify.com/playlist/6JENzX44x8FHQV43g5WpEy?si=a5WeCUN6R2qrZ8YLim3w8Q), 
+[Cluster 2](https://open.spotify.com/playlist/3dj735Sxd8EHFF3nFwwGgR?si=bGKEavedQnW0f2-Zxrra2g), 
 [Cluster 3](https://open.spotify.com/playlist/6ELhFjfvOzsAHVviqEbGBd?si=NNgLGUM6RnKzAUbxayehMA)
+
+# Sources, Libraries, and Packages
+
+[A guide to clustering large datasets with mixed data-types](https://bpostance.github.io/tutorial/2020/02/20/clustering-mixed-type-data.html)
+
+[Clustering on mixed type data](https://towardsdatascience.com/clustering-on-mixed-type-data-8bbd0a2569c3)
+
+[Gower's Distance](https://medium.com/analytics-vidhya/gowers-distance-899f9c4bd553#:~:text=What%20is%20Gower's%20Distance%20%3F%3F%3F,and%201%20(maximally%20dissimilar).)
+
+[Spotipy Library](https://spotipy.readthedocs.io/en/2.16.0/)
+
+[Gower's Distance Package](https://www.thinkdatascience.com/post/2019-12-16-introducing-python-package-gower/)
+
+[Pyclustering Library](https://pyclustering.github.io/docs/0.10.0/html/)
+
 
 
