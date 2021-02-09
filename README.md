@@ -28,16 +28,16 @@ There is a moderate negative correlation between acousticness and energy. We can
 
 ![Image](Images/cluster2.png)
 
-Cluster 2 has the highest proportion of explicit tracks. Further, the tracks in Cluster 2 were more speechy on average. Cluster 2 was the smallest group but best defined: it consists primarily of rap and hip-hop tracks and their derivatives.
+Cluster 2 has the highest proportion of explicit tracks. Further, the tracks in Cluster 2 were more speechy on average. Cluster 2 was the smallest group but the best defined: it consists primarily of rap and hip-hop tracks and their derivatives.
 
 ![Image](Images/track_scale.png)
 
 Cluster 1 had the lowest proportion of tracks on a major scale. In other words, the majority of tracks in Cluster 1 employed a minor scale. This was what made Cluster 2 distinct from the others. 
 
 # Conclusions
-Unfortanetly, I was unable to get more granular results than the four clusters defined above. In the end, I was unsuccessful in defining the different subgenres of pop music and grouping tracks accordingly. I believe the primary reason for this was that data was inadequate for the task. It was too general to give me the granularity I was looking for. Because of this, different sounding genres can end up with the same values for certain features (like valence or energy).
+Unfortanetly, I was unable to get more granular results than the four clusters defined above. In the end, I was unsuccessful in defining the different subgenres of pop music and grouping tracks accordingly. I believe the primary reason for this was that the data was inadequate for the task. It was too general to give me the granularity I was looking for. Because of this, different sounding genres can end up with the same values for certain features (like valence or energy).
 
-However, what I was able to create were very interesting track mixes. While the genres varied greatly within each cluster, the overall mood and vibe of each cluster was fairly consistent. This can be used as a recommendation system. It can look at a users saved tracks and created mixes for them. The playlists formed this way will generally have songs of different genres but with a similar feeling and mood to them.
+However, what I was able to create were very interesting track mixes. While the genres varied greatly within each cluster, the overall mood and vibe of each cluster was fairly consistent. Thus, my model can be used as a recommendation system. It can look at a users saved tracks and created mixes for them. The playlists formed this way will generally have songs of different genres but with a similar feeling and mood to them.
 
 # Next Steps
 The following are steps that can be taken to improve this project:
