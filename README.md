@@ -11,7 +11,7 @@ This project attempts to define the different subgenres of pop music and group m
   * **05.Final_Visualizations_and_Playlists**: More consistent visuals and playlists for each cluster
   
 # Models
-Initially, hierarchical clustering and k-means were used to form the clusters. However, these resulted in poor results. This was because of the mix of numeric and categorical features in the dataset. Upon realizing this, a combination of Gower Distance and K-Medoids was used to cluster the data. The best model had 4 clusters, a silhouette score of 0.22 and a variance ratio of 10,483.23. After these clusters were formed, I attempted to create subclusters out of them, but the results were not very good. The models were very unstable and their variance ratios and silhoette scores were very low. The added clusters did make the results better and sometimes made the results worse. In the end, 4 clusters were chosen for simplicity.
+Initially, hierarchical clustering and k-means were used to form the clusters. However, these resulted in poor results. This was because of the mix of numeric and categorical features in the dataset. Upon realizing this, a combination of Gower Distance and K-Medoids was used to cluster the data. The best model had 4 clusters, a silhouette score of 0.22 and a variance ratio of 10,483.23. After these clusters were formed, I attempted to create subclusters out of them, but the results were not very good. The models were very unstable and their variance ratios and silhoette scores were very low. The added clusters did not make the results better and sometimes made the results worse. In the end, 4 clusters were chosen for simplicity.
 
 # Cluster EDA
 ![Image](Images/cluster_dist.png)
